@@ -3,10 +3,10 @@ module.exports = {
     platform : 'arduino-esp32',
     title : 'MyESP32V1',
     description : 'MyESP32 V1.x.\n',
-    author : 'kru thong',
+    author : 'kruthong',
     website : 'http://www.myrobotstem.com/',
-    email : '.........',
-    git : '......',
+    email : 'myrobotstem@gmail.com',
+    git : 'https://github.com/myrobotstemiot/MyESP32V1/',
     image : '/static/display.jpg',
     version : '0.0.1'
 };
